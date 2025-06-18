@@ -36,7 +36,7 @@ A console-based simulation of an ATM (Automated Teller Machine) system written i
 
 Feel free to connect with me on
 ## 🔗 LinkedIn Link
-([https://www.linkedin.com/in/اسمك-لو-عندك/](https://www.linkedin.com/in/eng-arwa-mahmoud))
+(https://www.linkedin.com/in/eng-arwa-mahmoud))
 
 ## 📜 License
 
